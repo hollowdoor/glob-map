@@ -1,0 +1,23 @@
+{
+  "name": "glob-map",
+  "version": "1.0.0",
+  "description": "Glob, and map a callback over files",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "keywords": [
+    "glob",
+    "map",
+    "files"
+  ],
+  "author": "Quentin Engles <hollowdoor99@gmail.com> (https://hollowdoor.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "globby": "^8.0.1",
+    "p-map": "^1.2.0"
+  }
+}
