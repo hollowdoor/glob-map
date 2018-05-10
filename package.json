@@ -19,5 +19,14 @@
   "dependencies": {
     "globby": "^8.0.1",
     "p-map": "^1.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollowdoor/glob-map.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hollowdoor/glob-map/issues"
+  },
+  "homepage": "https://github.com/hollowdoor/glob-map#readme"
 }
